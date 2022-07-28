@@ -1,0 +1,14 @@
+.display-todo {
+    width: 500px;
+    padding: 20px;
+}
+
+.todo-row-grid {
+    display: grid !important;
+    grid-template-columns: 20px 1fr 75px;
+   
+}
+
+.complete {
+    text-decoration: line-through;
+}
